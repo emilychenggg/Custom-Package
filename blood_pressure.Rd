@@ -14,8 +14,3 @@ bp_measure(systolic, diastolic)
 \value{
   A string describing the blood pressure category.
 }
-\examples{
-# Example usage of bp_measure function
-bp_measure(120, 80)
-bp_measure(130, 85)
-}
