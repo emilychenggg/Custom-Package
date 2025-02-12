@@ -1,0 +1,20 @@
+Package: ChengPackage
+Type: Package
+Title: Health Data Visualizations Tools
+Version: 0.1.0
+Authors@R:person(
+      "Emily", "Cheng",
+      email = "exc540@jefferson.edu",
+      role = c("aut", "cre")
+    )
+Description: Package will allow for various types of functions and graphing suited
+             to interpret Health Data.From reading the data to having the right 
+             packages to help graph datasets.Allowing for a visual representation
+             of data analyzed.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    ggplot2 (>= 3.3.5),
+    tidyr (>= 1.2.0),
+    dplyr (>= 1.0.8) 
