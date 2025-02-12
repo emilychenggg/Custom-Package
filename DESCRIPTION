@@ -8,9 +8,10 @@ Authors@R:person(
       role = c("aut", "cre")
     )
 Description: Package will allow for various types of functions and graphing suited
-             to interpret Health Data.From reading the data to having the right 
-             packages to help graph datasets.Allowing for a visual representation
-             of data analyzed.
+             to interpret Health Data. Mainly this package contributes towards
+             analyzing blood pressure values and categorizing into a specific category.
+             This allows for an easier time to differentiate patient populations and 
+             organizing a dataset with attributes including blood pressure units. 
 License: MIT
 Encoding: UTF-8
 LazyData: true
